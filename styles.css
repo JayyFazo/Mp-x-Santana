@@ -1,0 +1,39 @@
+img {
+    height: 500px ;
+}
+
+img {
+    height: 300px;
+}
+body {
+    background-color: black;
+}
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color:white;
+}
+
+.Red {
+    color: Red;
+}
+
+.Yellow {
+    color: yellow;
+}
+
+.Orange {
+    color: orange;
+}
+
+.White {
+    color:white;
+}
+
